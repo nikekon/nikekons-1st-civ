@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Dominica",
+		"leaderName": "Eugenia Charles",
+		"adjective": ["Dominican"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Prime Minister, Dame Commander, protector of the people of Dominica, the Caribbean, etc. Eugenia Charles. You have been elected in the wake of a devastating hurricane, and must oversee the rebuilding of countless coastal settlements; all the while, protecting the nation's natural splendor and beauty. Forging a culture of perserverance, since long before independance from Britain, the Dominicans must prosper, and they look to you to lead them to greatness.",
+		"startIntroPart2": "Your people are ready to carry out your orders. Will your new empire shine through the ages of history?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
+		"declaringWar": "Apres Bondie, C'est La Ter. Surrender, or face our wrath!",
+		"attacked": "Tall is her body, and heavy is her hit.",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
