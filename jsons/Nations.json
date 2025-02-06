@@ -6,15 +6,15 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Prime Minister, Dame Commander, protector of the people of Dominica, the Caribbean, etc. Eugenia Charles. You have been elected in the wake of a devastating hurricane, and must oversee the rebuilding of countless coastal settlements; all the while, protecting the nation's natural splendor and beauty. Forging a culture of perserverance, since long before independance from Britain, the Dominicans must prosper, and they look to you to lead them to greatness.",
+		"startIntroPart1": "the Dominicans must prosper, and they look to you to lead them to greatness.",
 		"startIntroPart2": "Your people are ready to carry out your orders. Will your new empire shine through the ages of history?",
 		
 		"declaringWar": "Apres Bondie, C'est La Ter. Surrender, or face our wrath!",
 		"attacked": "Tall is her body, and heavy is her hit.",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "How is it possible ",
+		"introduction": "As ",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "How ",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -30,9 +30,6 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Roseau","Canefield","Portsmouth","Salisbury","Marigot","Atkinson","Berekua","Castle Bruce","Wesley","Soufrière"]
 	}
 ]
